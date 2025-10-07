@@ -3,5 +3,45 @@
         "name": "Wacky Flip",
         "slug": "wacky-flip",
         "image": "/cache/data/image/game/wacky-flip/wackyflipgame-m186x186.webp"
+    },
+    {
+        "name": "Mr Flip",
+        "slug": "mr-flip",
+        "image": "/cache/data/image/game/mr-flip/mr-flip-m186x186.webp"
+    },
+    {
+        "name": "Chicken Flip",
+        "slug": "chicken-flip",
+        "image": "/cache/data/image/game/chicken-flip/chicken-flip-m186x186.webp"
+    },
+    {
+        "name": "Bottle Flip 2",
+        "slug": "bottle-flip-2",
+        "image": "/cache/data/image/game/bottle-flip-2/bottle-flip-2-m186x186.webp"
+    },
+    {
+        "name": "Flip Bros",
+        "slug": "flip-bros",
+        "image": "/cache/data/image/game/flip-bros/flip-bros-m186x186.webp"
+    },
+    {
+        "name": "Kickback Dash",
+        "slug": "kickback-dash",
+        "image": "/cache/data/image/game/kickback-dash/kickback-dash-m186x186.webp"
+    },
+    {
+        "name": "Roblox Flip",
+        "slug": "roblox-flip",
+        "image": "/cache/data/image/game/roblox-flip/roblox-flip-m186x186.webp"
+    },
+    {
+        "name": "Devil Flip",
+        "slug": "devil-flip",
+        "image": "/cache/data/image/game/devil-flip/devil-flip-m186x186.webp"
+    },
+    {
+        "name": "Back Flipper",
+        "slug": "back-flipper",
+        "image": "/cache/data/image/game/back-flipper/back-flipper-m186x186.webp"
     }
 ]
